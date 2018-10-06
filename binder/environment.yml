@@ -3,7 +3,7 @@ channels:
   - damianavila82
   - conda-forge
 dependencies:
-  - python=3.5.4=h1357f44_23
+  - python==3.5.4
   - numpy
   - rise
   - jupyter_contrib_nbextensions
