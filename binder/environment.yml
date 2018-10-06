@@ -171,5 +171,4 @@ dependencies:
     - sortedcontainers==1.5.9
     - termcolor==1.1.0
     - werkzeug==0.14.1
-prefix: D:\Anaconda3\envs\MagentaPy35NBExt
 
