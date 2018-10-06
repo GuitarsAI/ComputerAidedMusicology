@@ -1,0 +1,2 @@
+add-apt-repository ppa:mscore-ubuntu/mscore-stable
+apt-get install musescore
