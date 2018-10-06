@@ -1,3 +1,5 @@
 ffmpeg
 lilypond
 musescore
+libfuse-dev 
+libreadline-dev
