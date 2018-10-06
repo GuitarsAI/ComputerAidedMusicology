@@ -1,2 +1,12 @@
 add-apt-repository ppa:mscore-ubuntu/mscore-stable
 apt-get install musescore
+
+chmod u+x ./MuseScore-2.3.2-x86_64.AppImage
+
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension enable python-markdown/main
+jupyter nbextension enable hide_input/main
+
+# Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
+jupyter trust autoMusicTransRepo.ipynb
