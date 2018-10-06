@@ -1,4 +1,4 @@
-name: MagentaPy35NBExt
+name: MusicEnv
 channels:
   - damianavila82
   - cogsci
@@ -7,8 +7,6 @@ channels:
   - defaults
 dependencies:
   - pygame=1.9.2a0=py35_0
-  - asn1crypto=0.24.0=py35_0
-  - astroid=1.6.1=py35_0
   - audioread=2.1.4=py35_2
   - babel=2.5.3=py35_0
   - certifi=2018.1.18=py35_0
@@ -28,7 +26,6 @@ dependencies:
   - jupyter_highlight_selected_word=0.1.1=py35_0
   - jupyter_latex_envs=1.4.4=py35_0
   - jupyter_nbextensions_configurator=0.4.0=py35_0
-  - keras=2.1.5=py35_0
   - libgpuarray=0.7.5=vc14_0
   - libiconv=1.14=vc14_4
   - libprotobuf=3.5.2=vc14_0
@@ -44,16 +41,12 @@ dependencies:
   - phantomjs=2.1.1=0
   - pipreqs=0.4.9=py_0
   - protobuf=3.5.2=py35_vc14_0
-  - pygpu=0.7.5=py35_0
   - pylint=1.8.2=py35_0
   - pyyaml=3.12=py35_1
   - resampy=0.2.0=py35_1
-  - selenium=3.11.0=py35_0
   - setuptools=38.5.1=py35_0
   - sphinx=1.7.1=py35_0
-  - spyder=3.2.7=py35_0
   - terminado=0.8.1=py35_1
-  - theano=1.0.1=py35_1
   - tornado=4.5.3=py35_0
   - typing=3.6.4=py35_0
   - widgetsnbextension=3.2.0=py35_0
@@ -106,7 +99,6 @@ dependencies:
   - numpydoc=0.7.0=py35h72ac4f2_0
   - openssl=1.0.2n=h74b6da3_0
   - packaging=16.8=py35h5fb721f_1
-  - pandas=0.22.0=py35h6538335_0
   - pandoc=1.19.2.1=hb2460c7_1
   - pandocfilters=1.4.2=py35h978f723_1
   - parso=0.1.1=py35he39c48a_0
@@ -134,7 +126,6 @@ dependencies:
   - qtpy=1.3.1=py35h4918c39_0
   - requests=2.18.4=py35h54a615f_1
   - rope=0.10.7=py35h5756fe0_0
-  - scikit-learn=0.19.1=py35h2037775_0
   - scipy=1.0.0=py35h75710e8_0
   - seaborn=0.8.1=py35hc73483e_0
   - send2trash=1.5.0=py35_0
@@ -170,7 +161,6 @@ dependencies:
     - gast==0.2.0
     - grpcio==1.10.0
     - intervaltree==2.1.0
-    - magenta==0.3.6
     - markdown==2.6.11
     - midiutil==1.2.1
     - mido==1.2.6
@@ -179,8 +169,6 @@ dependencies:
     - pretty-midi==0.2.8
     - python-rtmidi==1.1.0
     - sortedcontainers==1.5.9
-    - tensorboard==1.6.0
-    - tensorflow==1.6.0
     - termcolor==1.1.0
     - werkzeug==0.14.1
 prefix: D:\Anaconda3\envs\MagentaPy35NBExt
