@@ -10,7 +10,7 @@ Linkedin: https://www.linkedin.com/in/renato-profeta-6b678831/ <br>
 Youtube: https://www.youtube.com/channel/UCyAyQAu_PTX5h1Ni4q0ShHQ
 
 # Youtube Playlist
-
+https://www.youtube.com/playlist?list=PL6QnpHKwdPYiXGSVolZa-DrvW02aw0Lio <br>
 
 # Requirements
 For the requirements for this project to run, please check the following files at the 'binder' folder:
