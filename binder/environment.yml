@@ -6,6 +6,7 @@ dependencies:
   - python==3.5.4
   - numpy
   - rise
+  - pygame
   - jupyter_contrib_nbextensions
   - pip:
     - matplotlib==2.1.2
