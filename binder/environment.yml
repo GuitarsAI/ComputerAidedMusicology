@@ -6,7 +6,6 @@ dependencies:
   - python==3.5.4
   - numpy
   - rise
-  - python-pygame
   - jupyter_contrib_nbextensions
   - pip:
     - matplotlib==2.1.2
@@ -17,5 +16,6 @@ dependencies:
     - music21==5.1.0
     - ipython==6.3.1
     - librosa==0.6.0
+    - pygame
  
 
