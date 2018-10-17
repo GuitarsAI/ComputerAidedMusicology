@@ -15,6 +15,7 @@ https://www.youtube.com/playlist?list=PL6QnpHKwdPYiXGSVolZa-DrvW02aw0Lio <br>
 # Content
 - Minor Pentatonic Scale [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/ComputerAidedMusicology/master?filepath=MinorPentatonic.ipynb)
 - Major Pentatonic Scale [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/ComputerAidedMusicology/master?filepath=MajorPentatonic.ipynb)
+- Mixolydian Modal Pentatonic Scale [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/ComputerAidedMusicology/master?filepath=MixolydianModalPenta.ipynb)
 
 # Requirements
 For the requirements for this project to run, please check the following files at the 'binder' folder:
