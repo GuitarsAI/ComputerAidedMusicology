@@ -17,6 +17,7 @@ https://www.youtube.com/playlist?list=PL6QnpHKwdPYiXGSVolZa-DrvW02aw0Lio <br>
 - Major Pentatonic Scale [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/ComputerAidedMusicology/master?filepath=MajorPentatonic.ipynb)
 - Mixolydian Modal Pentatonic Scale [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/ComputerAidedMusicology/master?filepath=MixolydianModalPenta.ipynb)
 - Mixolydian Mode [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/ComputerAidedMusicology/master?filepath=MixolydianMode.ipynb)
+- Revision I: Pitch, Duration, Note, Interval, Scale and Stream [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/ComputerAidedMusicology/master?filepath=RevisionI.ipynb)
 
 # Requirements
 For the requirements for this project to run, please check the following files at the 'binder' folder:
