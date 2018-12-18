@@ -19,6 +19,7 @@ https://www.youtube.com/playlist?list=PL6QnpHKwdPYiXGSVolZa-DrvW02aw0Lio <br>
 - Mixolydian Mode [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/ComputerAidedMusicology/master?filepath=MixolydianMode.ipynb)
 - Revision I: Pitch, Duration, Note, Interval, Scale and Stream [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/GuitarsAI/ComputerAidedMusicology/master?filepath=RevisionI.ipynb)
 - From Pythagoras to the Diatonic Scale [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/ComputerAidedMusicology/master?filepath=PythagorasDiatonic.ipynb)
+- Chords and the Harmonic Field [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/ComputerAidedMusicology/master?filepath=HarmonicField.ipynb)
 
 # Requirements
 For the requirements for this project to run, please check the following files at the 'binder' folder:
